@@ -1,0 +1,16 @@
+django
+djangorestframework
+django-cors-headers
+python-dotenv
+psycopg2-binary
+djangorestframework-simplejwt
+celery
+redis
+PyMuPDF
+python-docx
+spacy
+torch
+transformers
+sentencepiece
+accelerate
+google-generativeai
